@@ -1,11 +1,13 @@
 {
-  "posts": [
+  "notes": [
     {
       "id": 1,
-      "title": "hello"
+      "title": "Learn Vue",
+      "time": "16:31",
+      "date": "19.07.2020"
     }
   ],
   "profile": {
-    "name": "typicode"
+    "name": "PiotrGasiorek"
   }
 }

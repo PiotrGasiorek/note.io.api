@@ -1,13 +1,11 @@
 {
-  "notes": [
+  "posts": [
     {
       "id": 1,
-      "title": "hello",
-      "time": "16:41",
-      "date": "06.29.2020"
+      "title": "hello"
     }
   ],
   "profile": {
-    "name": "PiotrGasiorek"
+    "name": "typicode"
   }
 }
